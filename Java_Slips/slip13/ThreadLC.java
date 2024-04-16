@@ -1,5 +1,3 @@
-package Java_Slips.slip13;
-
 import java.util.*;
 
 public class ThreadLC extends Thread {
