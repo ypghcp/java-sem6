@@ -1,5 +1,3 @@
-package Java_Slips.slip21;
-
 import java.util.*;
 
 public class Subject {
