@@ -1,5 +1,3 @@
-package Java_Slips.slip18;
-
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
