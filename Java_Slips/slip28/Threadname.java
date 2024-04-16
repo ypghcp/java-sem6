@@ -1,5 +1,3 @@
-package Java_Slips.slip28;
-
 public class Threadname extends Thread {
     public void run()
     {
