@@ -1,4 +1,3 @@
-package Java_Slips.slip29;
 import java.util.LinkedList;
 import java.util.Scanner;
 
