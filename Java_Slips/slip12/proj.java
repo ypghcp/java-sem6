@@ -1,4 +1,3 @@
-package Java_Slips.slip12;
 import java.sql.*;
 class proj
 {
