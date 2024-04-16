@@ -1,5 +1,3 @@
-package Java_Slips.slip30;
-
 class mythread extends Thread {
     String msg[] = { "Java", "Supports", "Multithreading", "Concept" };
 
