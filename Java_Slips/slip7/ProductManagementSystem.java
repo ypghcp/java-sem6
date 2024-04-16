@@ -1,5 +1,3 @@
-package Java_Slips.slip7;
-
 import java.sql.*;
 import java.util.Scanner;
 
