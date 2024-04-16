@@ -1,4 +1,3 @@
-package Java_Slips.slip21;
 class shop
 {
      int mat;
