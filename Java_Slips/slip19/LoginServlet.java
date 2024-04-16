@@ -1,5 +1,3 @@
-package Java_Slips.slip19;
-
 import java.io.*;
 import java.sql.*;
 import javax.servlet.*;
