@@ -1,5 +1,3 @@
-package Java_Slips.slip3;
-
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.ListIterator;
