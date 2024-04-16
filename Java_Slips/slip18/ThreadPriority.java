@@ -1,5 +1,3 @@
-package Java_Slips.slip18;
-
 public class ThreadPriority extends Thread { 
     public void run()
      { 
