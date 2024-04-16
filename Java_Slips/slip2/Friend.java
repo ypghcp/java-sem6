@@ -1,4 +1,3 @@
-package Java_Slips.slip2;
 import java.util.*;
 
 public class Friend {
