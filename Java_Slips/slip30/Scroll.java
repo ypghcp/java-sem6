@@ -1,5 +1,3 @@
-package Java_Slips.slip30;
-
 import java.sql.*;
 
 public class Scroll {
