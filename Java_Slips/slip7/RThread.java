@@ -1,4 +1,3 @@
-package Java_Slips.slip7;
 import java.util.Random;
 
 class Generator extends Thread 
