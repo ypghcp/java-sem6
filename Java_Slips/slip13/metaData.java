@@ -1,4 +1,3 @@
-package Java_Slips.slip13;
 import java.sql.*;
 
 public class metaData {
