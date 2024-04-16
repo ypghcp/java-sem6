@@ -1,5 +1,3 @@
-package Java_Slips.slip23;
-
 import java.util.Scanner;
 
 public class DisplayVowels {
