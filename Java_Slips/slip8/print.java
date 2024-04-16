@@ -1,5 +1,3 @@
-package Java_Slips.slip8;
-
 class threadPrint extends Thread
 {
     String msg="";
