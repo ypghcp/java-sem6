@@ -1,5 +1,3 @@
-package Java_Slips.slip17;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
