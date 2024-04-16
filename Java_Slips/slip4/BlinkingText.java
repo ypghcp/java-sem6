@@ -1,5 +1,3 @@
-package Java_Slips.slip4;
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.concurrent.TimeUnit;
